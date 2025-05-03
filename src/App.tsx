@@ -23,14 +23,20 @@ function App() {
     {
       title: "Sāṅkhya Academy",
       description: "A beautifully designed landing page for Sāṅkhya Academy, showcasing its mission and offerings.",
-      image: "/images/output-onlinepngtools.png",
+      image: "public/images/output-onlinepngtools.png",
       link: "https://github.com/akshayramesh751/Saankhya"
     },
     {
       title: "Terminal based Quiz App",
       description: "A terminal-based quiz application built with C, featuring multiple choice questions on DSA.",
-      image: "/images/quiz.jpeg",
+      image: "public/images/quiz.jpeg",
       link: "https://github.com/akshayramesh751/terminal-based-quiz-app"
+    },
+    {
+      title: "Finbuddy",
+      description: "A multilingual AI chatbot to help you with your finances.",
+      image: "public/images/finbuddy.jpg",
+      link: "https://github.com/akshayramesh751/finbuddy-chatbot.git"
     },
   ];
 
