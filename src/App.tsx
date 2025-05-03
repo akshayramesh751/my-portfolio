@@ -36,8 +36,8 @@ function App() {
       title: "Finbuddy",
       description: "A multilingual AI chatbot to help you with your finances.",
       image: "public/images/finbuddy.jpg",
-      link: "https://github.com/akshayramesh751/finbuddy-chatbot.git"
-    },
+      link: "https://github.com/akshayramesh751/finbuddy-chatbot"
+    }
   ];
 
   const closeMenu = () => {
